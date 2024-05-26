@@ -1,4 +1,8 @@
-.app-logo {
-  height:auto;
-  width: 100%;
+.logo {
+  background-color: #d2deec;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height:100vh;
+  width: 100vw;
 }
